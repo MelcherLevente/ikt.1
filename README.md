@@ -1,2 +1,2 @@
 # ikt.1
-#github szerver
+# github szerver
